@@ -1,5 +1,5 @@
 # eleventy-blog
-An example blog site using Eleventy that covers fundamental functionality.
+An example basdaslog site using Eleventy that covers fundamental functionality.
 
 The following article accompanies this repo.
 
