@@ -1,5 +1,4 @@
 # eleventy-blog
-Changes
 An example blog site using Eleventy that covers fundamental functionality.
 
 The following article accompanies this repo.
